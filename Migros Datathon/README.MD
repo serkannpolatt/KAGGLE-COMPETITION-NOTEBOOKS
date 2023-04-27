@@ -16,6 +16,6 @@
 
 ## What Do We Expect You To Produce?
 ### Campaigns in the retail industry are an important tool to achieve a better customer experience, thus ensuring customer retention and gaining new opportunities. The findings of data science and machine learning methods have brought much different perspectives specific to campaigns and paved the way for the personalization of the customer experience.
-###Campaigns are responsible for the most fundamental topics of Migros Data Science team. There are many campaign-specific studies such as personalized campaigns, product, price, period forecasts.
+### Campaigns are responsible for the most fundamental topics of Migros Data Science team. There are many campaign-specific studies such as personalized campaigns, product, price, period forecasts.
 
 ### In the scope of this datathon, we expect you to generate useful variables and set up the right components in the data, that they estimate that they will follow the return to the campaigns (whether they will benefit from the campaigns or not) using the historical spending section that ended within a specified campaign period.
