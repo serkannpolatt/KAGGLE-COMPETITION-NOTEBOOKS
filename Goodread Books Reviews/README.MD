@@ -26,7 +26,7 @@ Okur bağlantısı ve etkileşimi, ister Amazon'da, ister Goodreads'te veya sosy
 Bu yarışmanın veri seti UCSD Book Graph'tan alınmıştır.
 Bu veri kümeleriyle ilgili herhangi bir sorunuz varsa veya herhangi bir hata bulursanız, Mengting Wan (m5wan@ucsd.edu) ile iletişime geçmekten çekinmeyin.
 
-## alıntılar
+## Alıntılar
 ### lütfen aşağıdaki belgelerden alıntı yapın:
 
 ### Mengting Wan, Julian McAuley, "Tekdüze Davranış Zincirleri Üzerine Öğe Önerisi", RecSys'18 içinde. [bibtex]
