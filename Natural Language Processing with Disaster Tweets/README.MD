@@ -3,7 +3,7 @@
 
 ## Competition Description
 ### Twitter has become an important communication channel in times of emergency.
-###The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+### The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
 ### But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 <img width="296" alt="tweet_screenshot" src="https://user-images.githubusercontent.com/92849974/234816891-8585f954-b038-433d-8355-68e454f8ea3f.png">
@@ -25,7 +25,7 @@
 
 ## Yarışma Açıklaması
 ### Twitter, acil durumlarda önemli bir iletişim kanalı haline geldi.
-###Akıllı telefonların her yerde bulunması, insanların gözlemledikleri bir acil durumu gerçek zamanlı olarak duyurmalarını sağlar. Bu nedenle, daha fazla kurum Twitter'ı programatik olarak izlemekle ilgileniyor (yani, afet yardım kuruluşları ve haber ajansları).
+### Akıllı telefonların her yerde bulunması, insanların gözlemledikleri bir acil durumu gerçek zamanlı olarak duyurmalarını sağlar. Bu nedenle, daha fazla kurum Twitter'ı programatik olarak izlemekle ilgileniyor (yani, afet yardım kuruluşları ve haber ajansları).
 
 ### Ancak, bir kişinin sözlerinin aslında bir felaketi haber verip vermediği her zaman net değildir. Bu örneği alın:
 <img width="296" alt="tweet_screenshot" src="https://user-images.githubusercontent.com/92849974/234816891-8585f954-b038-433d-8355-68e454f8ea3f.png">
