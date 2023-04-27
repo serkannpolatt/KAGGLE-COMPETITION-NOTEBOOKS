@@ -5,6 +5,6 @@ Migros'un çalışma dünyası meraklı, heyecanlı, teknoloji tutkunu!
 
 ## Ne Üretmenizi Bekliyoruz?
 ### Perakende sektöründe kampanyalar, daha iyi bir müşteri deneyimi yaratmak, bu sayede müşteri devamlılığını sağlamak ve yeni müşterilere ulaşabilmek adına önemli bir araçtır. Veri bilimi ve makine öğrenmesi yöntemlerinin gelişmesi kampanyalar özelinde çok daha farklı bakış açıları kazandırmış, müşteri deneyiminin kişiselleştirilmesinin önünü açmıştır.
-Kampanyalar, Migros Veri Bilimi ekibimizin en temel konu başlıklarından birisidir. Kişiye özel kampanyalar, ürün, fiyat, dönem önerileri gibi kampanya özelinde birçok çalışma yapılmaktadır.
+### Kampanyalar, Migros Veri Bilimi ekibimizin en temel konu başlıklarından birisidir. Kişiye özel kampanyalar, ürün, fiyat, dönem önerileri gibi kampanya özelinde birçok çalışma yapılmaktadır.
 
 ### Bu datathon kapsamında ise sizlerden, belirlenen bir kampanya dönemi içerisinde müşterilerin geçmiş harcama verilerini kullanarak kampanyalara geri dönüş yapıp yapmayacaklarını (kampanyalardan faydalanıp faydalanmayacaklarını) tahmin etmenizi, faydalı değişkenler üretmenizi ve veri içerisinde doğru bağlantılar kurmanızı bekliyoruz.
