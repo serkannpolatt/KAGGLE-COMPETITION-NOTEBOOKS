@@ -23,8 +23,8 @@
 ### Bu yarışmada, Goodreads kitap inceleme web sitesinden incelemeler ve öğeleri açıklayan çeşitli özelliklerden oluşan zorlu bir veri kümesiyle çalışacaksınız. ve 0 ile 5 arasında değişen inceleme puanını tahmin etmeniz gerekir.
 
 ## Teşekkürler
-Bu yarışmanın veri seti UCSD Book Graph'tan alınmıştır.
-Bu veri kümeleriyle ilgili herhangi bir sorunuz varsa veya herhangi bir hata bulursanız, Mengting Wan (m5wan@ucsd.edu) ile iletişime geçmekten çekinmeyin.
+### Bu yarışmanın veri seti UCSD Book Graph'tan alınmıştır.
+### Bu veri kümeleriyle ilgili herhangi bir sorunuz varsa veya herhangi bir hata bulursanız, Mengting Wan (m5wan@ucsd.edu) ile iletişime geçmekten çekinmeyin.
 
 ## Alıntılar
 ### lütfen aşağıdaki belgelerden alıntı yapın:
