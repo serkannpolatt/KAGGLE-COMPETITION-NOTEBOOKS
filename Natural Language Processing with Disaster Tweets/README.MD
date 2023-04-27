@@ -19,4 +19,25 @@
 
 ### Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
-# ----------------------------------
+----------------------------------
+# "Başlarken" yarışmalarımızdan birine hoş geldiniz 👋
+### Bu özel zorluk, Doğal Dil İşleme'ye başlamak isteyen veri bilimcileri için mükemmeldir. Rekabet veri seti çok büyük değil ve çok fazla kişisel bilgi işlem gücünüz olmasa bile, tüm işleri Kaggle Notebooks adlı ücretsiz, kurulum gerektirmeyen Jupyter Notebooks ortamımızda yapabilirsiniz.
+
+## Yarışma Açıklaması
+### Twitter, acil durumlarda önemli bir iletişim kanalı haline geldi.
+###Akıllı telefonların her yerde bulunması, insanların gözlemledikleri bir acil durumu gerçek zamanlı olarak duyurmalarını sağlar. Bu nedenle, daha fazla kurum Twitter'ı programatik olarak izlemekle ilgileniyor (yani, afet yardım kuruluşları ve haber ajansları).
+
+### Ancak, bir kişinin sözlerinin aslında bir felaketi haber verip vermediği her zaman net değildir. Bu örneği alın:
+<img width="296" alt="tweet_screenshot" src="https://user-images.githubusercontent.com/92849974/234816891-8585f954-b038-433d-8355-68e454f8ea3f.png">
+
+### Yazar açıkça "ABLAZE" kelimesini kullanıyor ama mecazi olarak kastediyor. Bu, özellikle görsel yardımla, bir insan için hemen anlaşılır. Ancak bir makine için daha az anlaşılır.
+
+### Bu yarışmada, hangi Tweetlerin gerçek felaketlerle ilgili olduğunu ve hangilerinin olmadığını tahmin eden bir makine öğrenimi modeli oluşturmanız isteniyor. Elle sınıflandırılmış 10.000 tweetlik bir veri kümesine erişiminiz olacak. İlk kez bir NLP problemi üzerinde çalışıyorsanız, sizi harekete geçirmek için hızlı bir öğretici oluşturduk.
+
+### Sorumluluk Reddi: Bu yarışmanın veri seti küfürlü, kaba veya rahatsız edici olarak değerlendirilebilecek metinler içeriyor.
+
+## Teşekkürler
+### Bu veri seti, shape-eight şirketi tarafından oluşturuldu ve orijinal olarak buradaki 'Herkes İçin Veri' web sitesinde paylaşıldı.
+
+### Tweet kaynağı: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
+
