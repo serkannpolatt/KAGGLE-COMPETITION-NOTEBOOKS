@@ -6,8 +6,8 @@ Reader connection and engagement will be encouraged by book reviews, whether the
 ### In this competition you will work with a challenging dataset consisting reviews from the Goodreads book review website, and a variety of attributes describing the items. and you have to predict review rating which ranges from 0 to 5.
 
 ## Acknowledgements
-The dataset of this competition is taken from UCSD Book Graph.
-If you have any questions or find any bugs regarding these datasets, feel free to contact Mengting Wan (m5wan@ucsd.edu).
+###The dataset of this competition is taken from UCSD Book Graph.
+### If you have any questions or find any bugs regarding these datasets, feel free to contact Mengting Wan (m5wan@ucsd.edu).
 
 ## Citations
 ### please cite the following papers:
