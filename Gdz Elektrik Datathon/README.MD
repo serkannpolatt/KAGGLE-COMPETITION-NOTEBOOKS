@@ -1,4 +1,4 @@
-# Gdz Elektrik Datathon 2023 Gdz Elektrik Dağıtım A.Ş.'nin verileriye, enerji dağıtımını tahminliyoruz.
+# Gdz Elektrik Datathon 2023 
 
 #### İzmir ve Manisa illerinde günlük yaşamın vazgeçilmezi olan elektrik enerjisini, insan odaklı hizmet anlayışı ve modern teknoloji sistemleri ile tüketicilerine ulaştıran Gdz Elektrik, geleneksel hale getirdiği Datathon serisinin ikincisini başlatıyor. 🏙
 
@@ -13,7 +13,7 @@
 
 #### Yarışma sonunda ilk 30 ekibin notebook'ları istenecektir. Ekiplerin kullandıkları dış veriler, üretilen feature’lar, alternatif çözüm yöntemlerinin kullanılıp kullanılmadığı gibi kriterler değerlendirilecektir.
 -------------------------------------------
-# Gdz Elektrik Datathon 2023 We estimate the energy distribution based on the data of Gdz Elektrik Dağıtım A.Ş.
+# Gdz Elektrik Datathon 2023 
 
 #### Gdz Elektrik, which delivers electrical energy, which is indispensable for daily life in İzmir and Manisa provinces, to its consumers with its human-oriented service approach and modern technology systems, is launching the second of its traditional Datathon series. 🏙
 
