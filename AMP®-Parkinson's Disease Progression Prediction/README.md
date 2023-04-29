@@ -1,0 +1,23 @@
+# Parkinson's Disease Progression Prediction Challenge
+### This is a competition hosted by the Accelerating Medicines Partnership® Parkinson’s Disease (AMP®PD) to predict MDS-UPDR scores, which measure progression in patients with Parkinson's disease. The Movement Disorder Society-Sponsored Revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS) is a comprehensive assessment of both motor and non-motor symptoms associated with Parkinson's.
+
+### The participants are required to develop a model trained on data of protein and peptide levels over time in subjects with Parkinson’s disease versus normal age-matched control subjects. The goal is to identify which molecules change as Parkinson’s disease progresses, which could lead to the discovery of new pharmacotherapies to slow the progression or cure Parkinson’s disease.
+
+### Parkinson’s disease (PD) is a brain disorder that affects movements, cognition, sleep, and other normal functions. It currently has no cure and the disease worsens over time. The economic cost of Parkinson’s disease is expected to approach $80 billion by 2037 with an estimated 1.6 million people in the U.S. affected. Research indicates that protein or peptide abnormalities play a key role in the onset and worsening of this disease.
+
+### The Accelerating Medicines Partnership® Parkinson’s Disease (AMP®PD) is a public-private partnership between government, industry, and nonprofits managed through the Foundation of the National Institutes of Health (FNIH). The partnership created the AMP PD Knowledge Platform, which includes a deep molecular characterization and longitudinal clinical profiling of Parkinson’s disease patients, with the goal of identifying and validating diagnostic, prognostic, and/or disease progression biomarkers for Parkinson’s disease.
+
+### The competition provides access to the data from the AMP PD Knowledge Platform, which includes complex clinical and neurobiological data on over 10,000 subjects. Although several important findings have been published using this data, clear biomarkers or cures are still lacking. Therefore, this competition could potentially help in the search for a cure for Parkinson’s disease, which would alleviate the substantial suffering and medical care costs of patients with this disease.
+
+------------------------------------------------
+
+# Parkinson Hastalığı İlerleme Tahmini Mücadelesi
+### Bu, Parkinson hastalığı olan hastalarda ilerlemeyi ölçen MDS-UPDR skorlarını tahmin etmek için Accelerating Medicines Partnership® Parkinson's Disease (AMP®PD) tarafından düzenlenen bir yarışmadır. Birleşik Parkinson Hastalığı Derecelendirme Ölçeğinin (MDS-UPDRS) Hareket Bozukluğu Derneği Sponsorluğundaki Revizyonu, Parkinson ile ilişkili hem motor hem de motor olmayan semptomların kapsamlı bir değerlendirmesidir.
+
+### Katılımcıların, yaşları eşleştirilmiş normal kontrol deneklerine karşı Parkinson hastalığı olan deneklerde zaman içinde protein ve peptit seviyeleri verileri üzerinde eğitilmiş bir model geliştirmeleri gerekmektedir. Amaç, Parkinson hastalığı ilerledikçe hangi moleküllerin değiştiğini belirlemek ve bu da ilerlemeyi yavaşlatmak veya Parkinson hastalığını iyileştirmek için yeni farmakoterapilerin keşfedilmesine yol açabilir.
+
+### Parkinson hastalığı (PD), hareketleri, bilişi, uykuyu ve diğer normal işlevleri etkileyen bir beyin bozukluğudur. Şu anda tedavisi yoktur ve hastalık zamanla kötüleşir. Parkinson hastalığının ekonomik maliyetinin 2037 yılına kadar 80 milyar dolara yaklaşması ve ABD'de tahminen 1,6 milyon insanın etkilenmesi bekleniyor. Araştırmalar, protein veya peptit anormalliklerinin bu hastalığın başlamasında ve kötüleşmesinde anahtar rol oynadığını gösteriyor.
+
+### Hızlandırıcı İlaçlar Ortaklığı® Parkinson Hastalığı (AMP®PD), Ulusal Sağlık Enstitüleri Vakfı (FNIH) aracılığıyla yönetilen, hükümet, endüstri ve kar amacı gütmeyen kuruluşlar arasındaki bir kamu-özel sektör ortaklığıdır. Ortaklık, Parkinson hastalığı için teşhis, prognostik ve/veya hastalık ilerlemesi biyobelirteçlerini belirleme ve doğrulama amacıyla Parkinson hastalarının derin bir moleküler karakterizasyonunu ve uzunlamasına klinik profillemesini içeren AMP PD Bilgi Platformunu yarattı.
+
+### Yarışma, 10.000'den fazla denekle ilgili karmaşık klinik ve nörobiyolojik verileri içeren AMP PD Bilgi Platformundan alınan verilere erişim sağlar. Bu veriler kullanılarak birkaç önemli bulgu yayınlanmış olsa da, net biyobelirteçler veya tedaviler hala eksiktir. Bu nedenle, bu rekabet, potansiyel olarak Parkinson hastalığına yönelik bir tedavi arayışına yardımcı olabilir ve bu, bu hastalığa sahip hastaların önemli ıstırabını ve tıbbi bakım maliyetlerini hafifletebilir.
