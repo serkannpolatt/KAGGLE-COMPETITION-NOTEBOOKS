@@ -20,6 +20,7 @@
 ### Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
 ----------------------------------
+
 # "Başlarken" yarışmalarımızdan birine hoş geldiniz 👋
 ### Bu özel zorluk, Doğal Dil İşleme'ye başlamak isteyen veri bilimcileri için mükemmeldir. Rekabet veri seti çok büyük değil ve çok fazla kişisel bilgi işlem gücünüz olmasa bile, tüm işleri Kaggle Notebooks adlı ücretsiz, kurulum gerektirmeyen Jupyter Notebooks ortamımızda yapabilirsiniz.
 
@@ -40,4 +41,10 @@
 ### Bu veri seti, shape-eight şirketi tarafından oluşturuldu ve orijinal olarak buradaki 'Herkes İçin Veri' web sitesinde paylaşıldı.
 
 ### Tweet kaynağı: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
+
+![Natural Language Processing with Disaster Tweets](https://github.com/serkannpolatt/KAGGLE-COMPETITION-NOTEBOOKS/assets/92849974/c954ea37-1aa0-4fad-a5bb-7e365911ff4a)
+
+
+
+
 
